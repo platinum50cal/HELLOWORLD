@@ -196,12 +196,11 @@ int main(int argc, char** argv)
     
     
     real_change(77);
-    real_change(5);
     real_change(15);
     real_change(30);
     real_change(-3);
-    
-    
+    real_change(60);
+    real_change(39);
     
     
     
